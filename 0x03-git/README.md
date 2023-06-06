@@ -12,3 +12,6 @@ Learning Objectives;
 		> Create a branch
 		> Merge branch
 		> Work as collaborators on a project
+Futher study goals. 
+GIT Flow
+GIT Branching
