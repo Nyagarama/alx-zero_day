@@ -1,4 +1,4 @@
-##  Learning Objectives;  
+##  Learning Objectives  
 1. Understand what source code mangement entails  
 2. Explain the difference between Git and GitHub
 3. Distinguish which files to appear or not to appear in my repo
