@@ -17,3 +17,5 @@ We as members, contributors, and leaders pledge to make participation in our com
 * Initiative
 * Resilience
 
+## Copyright
+Plagiarism of programme content; copy of code for project submissions; is considered as a **severe offense.** Any form of plagiarism is strictly forbidden. Copying and pasting code will result in you not meeting the project objectives. 
